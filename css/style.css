@@ -1,0 +1,30 @@
+h1 {margin-left: 50px;}
+img { max-width:100%; }
+
+.thumbnails {
+	height: 200px;
+  	width: 100px;
+}
+
+.thumbnails li> .fff .caption { 
+  background:#fff !important; 
+  padding:10px
+}
+
+ul.thumbnails { 
+  margin-bottom: 10px;
+}
+
+
+
+/* Thumbnail Box */
+.caption h3 {
+  color: #444;
+}
+
+.caption a {  
+  color: #999;
+}
+
+
+li { list-style-type:none;}
